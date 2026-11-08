@@ -1,0 +1,4 @@
+.openai/
+qa/
+*.zip
+.DS_Store
