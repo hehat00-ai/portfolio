@@ -27,5 +27,8 @@
 - 모바일/태블릿은 데스크톱 Chrome 내 실제 크기 iframe 검수이며 실물 iOS/Android 터치 검수가 아닙니다.
 - Chrome 이외 브라우저 실기 검수는 미실시입니다.
 - 전체 상세 전수 순회는 브라우저 제어 시간 제한으로 종료되어 전수 UI 통과로 주장하지 않습니다. 데이터 구조는 29건 전부 검사했고 주요 유형의 상세 UI를 확인했습니다.
-- GitHub 공개 저장소 hehat00-ai/portfolio 생성 완료. 소스 업로드 및 Pages 배포 진행 중입니다.
+- 2026-11-08: GitHub 공개 저장소 hehat00-ai/portfolio 소스 업로드 및 Pages 배포 성공.
+- 배포 실행: https://github.com/hehat00-ai/portfolio/actions/runs/42436715481 (Success).
+- 공개 주소 https://hehat00-ai.github.io/portfolio/ 접속, 화면 렌더링, 상세 열기, 해시 주소 새로고침 및 닫기 확인.
+- Actions에서 Node 20 기반 액션의 Node 24 강제 실행 관련 경고와 Ubuntu 이미지 전환 안내가 표시되었으나 검증·배포는 성공했습니다.
 - 실제 운영 증빙 자료가 아직 없는 영역은 CONTENT_CHECKLIST.md를 참고하세요.

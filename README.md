@@ -2,7 +2,10 @@
 
 HTML/CSS/JavaScript로 만든 정적 포트폴리오입니다. 별도의 설치·빌드 없이 작동하며 GitHub Pages의 `/portfolio/` 하위 경로를 지원합니다.
 
-현재 상태: 개발 및 주요 브라우저 기능 검수 완료. GitHub 저장소 생성 완료, 소스 업로드 및 Pages 배포 진행 중입니다.
+현재 상태: GitHub Pages 배포 완료 (2026-11-08). 공개 주소 접속 및 상세 사례 열기·새로고침 확인 완료.
+
+사이트: https://hehat00-ai.github.io/portfolio/
+저장소: https://github.com/hehat00-ai/portfolio
 
 ## 파일 구조
 
@@ -119,7 +122,7 @@ PORTFOLIO.projects.push({
 4. `main` 브랜치에 커밋합니다. Actions의 `Deploy portfolio to GitHub Pages`가 성공하는지 확인합니다. 필요하면 Run workflow를 실행합니다.
 5. Pages 화면에 표시된 실제 URL을 열고, 상세 사례 링크 새로고침과 이미지 표시를 확인합니다.
 
-예상 URL은 `https://hehat00-ai.github.io/portfolio/`이지만, 배포 성공 전에는 실제 제출 URL로 안내하지 않습니다.
+공개 URL: https://hehat00-ai.github.io/portfolio/
 
 ## 수정 후 재배포
 
